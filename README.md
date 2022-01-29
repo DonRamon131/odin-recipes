@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes website
+Recipes website. Just refreshing on fundamental things.
